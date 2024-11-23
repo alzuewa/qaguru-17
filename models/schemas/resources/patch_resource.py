@@ -1,0 +1,12 @@
+patch_resource = {
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "updatedAt": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "updatedAt"
+    ]
+}
