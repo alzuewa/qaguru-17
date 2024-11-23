@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "qaguru-17"
+version = "0.1.0"
+description = ""
+authors = ["Albina <albizuewa@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytest = "^8.3.3"
+requests = "^2.32.3"
+jsonschema = "^4.23.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
