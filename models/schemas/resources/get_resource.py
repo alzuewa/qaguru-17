@@ -34,3 +34,8 @@ get_resource = {
         "data"
     ]
 }
+
+get_invalid_resourse = {
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object"
+}
